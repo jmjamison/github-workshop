@@ -11,3 +11,10 @@
 #  good practice, always clear your git tab when done
 
 # when brancing, be mindful of backups - dropbox, etc.  
+# https://github.com/mine-cetinkaya-rundel/errormoji.git
+#add git repo as remote
+# library usethis
+library(usethis)
+#usethis::use_git()
+#usegithub < to create remote repo
+library(usegithub)
