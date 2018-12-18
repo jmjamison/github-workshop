@@ -7,3 +7,5 @@
 
 
 # should show why you did as well as what
+# post commiting, the git tab will be empty.
+#  good practice, always clear your git tab when done
